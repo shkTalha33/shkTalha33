@@ -1,3 +1,4 @@
+![logo](https://github.com/shkTalha33/shkTalha33/blob/main/Red%20%26%20Navy%20Futuristic%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
