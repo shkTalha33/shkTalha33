@@ -1,6 +1,6 @@
 ![logo](https://github.com/shkTalha33/shkTalha33/blob/main/Red%20%26%20Navy%20Futuristic%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shktalha33&label=Profile%20views&color=0e75b6&style=flat" alt="shktalha33" /> </p>
 
