@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web and Mobile Application Developement**
 
-- 👨‍💻 All of my projects are available at [https://talhafolio.vercel.app/](https://talhafolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://muhammadtalha-theta.vercel.app/](https://muhammadtalha-theta.vercel.app/)
 
 - 💬 Ask me about **react, firebase and nodejs**
 
